@@ -1,3 +1,4 @@
+//1)Sign and Parity Check
 #include <stdio.h>
 int main()
 {

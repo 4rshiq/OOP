@@ -1,3 +1,4 @@
+//4)Triangle Validator and Type Checker
 #include <stdio.h>
 #include <math.h>
 int check_triangle(int a[]);
