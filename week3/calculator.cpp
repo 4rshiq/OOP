@@ -8,34 +8,16 @@ int main ()
     cout<<"enter expression : ";
     cin >>a >> option >> b;
     
-    if (option == '/' && b == 0)
+    if ((option == '/' || option == '%')  && b == 0)
     {
        cout<<"division by zero not defined";
        return 0;
     }
-    
-    switch (option)
-    {
-    case '+':
-        cout<<"solution: "<<a+b<<"\n";
-        break;
-    case '-':
-        cout<<"solution: "<<a-b<<"\n";
-        break;
-    case '*':
-        cout<<"solution: "<<a*b<<"\n";
-        break;
-    case '/':
-        cout<<"solution: "<<a/b<<"\n";
-        break;
-    case '%':
-        cout<<"solution: "<< (int)a % (int)b<<"\n";
-        break;
-    
-    default:
-    cout<<"invalid operator\n HINT : use +,-,*,/";
-        break;
-    }
-    
-    
+    option == '+' ? cout << "solution: " << a + b << "\n" :
+    option == '-' ? cout << "solution: " << a - b << "\n" :
+    option == '*' ? cout << "solution: " << a * b << "\n" :
+    option == '/' ? cout << "solution: " << a / b << "\n" :
+    option == '%' ? cout << "solution: " << (int)a % (int)b << "\n" :
+        cout << "invalid operator\nHINT : use +,-,*,/,%";
+    return 0;
 }
