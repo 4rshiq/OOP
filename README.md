@@ -9,8 +9,9 @@
 | [Week 1](https://github.com/4rshiq/OOP/tree/main/week1) | C programming & introductory lab problems |
 | [Week 2](https://github.com/4rshiq/OOP/tree/main/week2) | Basic problems focused on getting familiar with C++ syntax |
 | [Week 3](https://github.com/4rshiq/OOP/tree/main/week3) | More advanced C++ problems and programming  concepts |                                               |
-| [Week 4](https://github.com/4rshiq/OOP/tree/main/week4) | C++ loops and control statements |                                               |
-| [Week 5](https://github.com/4rshiq/OOP/tree/main/week5) |functions in C++|                                               |
+| [Week 4](https://github.com/4rshiq/OOP/tree/main/week4) | C++ loops and control statements problems |                                               
+| [Week 5](https://github.com/4rshiq/OOP/tree/main/week5) |Functions in C++|                                               
+| [Week 6](https://github.com/4rshiq/OOP/tree/main/week6) | Function overloading problems|                                               
 
 
 > New weekly lab work will be added as the course progresses.
