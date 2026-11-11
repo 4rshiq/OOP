@@ -12,6 +12,7 @@
 | [Week 4](https://github.com/4rshiq/OOP/tree/main/week4) | C++ loops and control statements problems |                                               
 | [Week 5](https://github.com/4rshiq/OOP/tree/main/week5) |Functions in C++|                                               
 | [Week 6](https://github.com/4rshiq/OOP/tree/main/week6) | Function overloading problems|                                               
+| [Week 7](https://github.com/4rshiq/OOP/tree/main/week7) | Objects, Classes and Constructors |                                               
 
 
 > New weekly lab work will be added as the course progresses.
